@@ -1,0 +1,42 @@
+{
+  "name": "wakabox-stats",
+  "version": "1.0.0",
+  "description": "Update a gist to contain your weekly WakaTime stats",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/underwindfall/wakabox-stats.git"
+  },
+  "keywords": [
+    "wakabox",
+    "node",
+    "javascript",
+    "aweseome-readme"
+  ],
+  "author": "underwindfall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/underwindfall/wakabox-stats/issues"
+  },
+  "homepage": "https://github.com/underwindfall/wakabox-stats#readme",
+  "scripts": {
+    "build": "ncc build index.js --out dist --minify"
+  },
+  "dependencies": {
+    "@octokit/rest": "16.36.0",
+    "axios": "0.19.0",
+    "dotenv": "8.2.0",
+    "wakatime-client": "2.6.0"
+  },
+  "devDependencies": {
+    "@zeit/ncc": "0.20.5",
+    "husky": "3.1.0",
+    "prettier": "1.19.1",
+    "pretty-quick": "2.0.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  }
+}
