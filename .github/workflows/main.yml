@@ -6,8 +6,9 @@ on:
   pull_request:
     branches:
       - main
+  workflow_dispatch:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/2 * * * *"
 
 jobs:
   update-gist:
