@@ -4,6 +4,8 @@ Helper Project to display wakabox stats for github profile pages.
 
 ## Preview
 
+![](https://gist.github.com/underwindfall/377ee88ba1fabd1e93516e48ca9c61eb/raw)
+
 ## License
 
 ```
