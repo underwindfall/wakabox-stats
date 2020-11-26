@@ -70,7 +70,9 @@ async function updateGist(stats) {
   if (lines.length == 0) return;
 
   const wake_content = lines.join("\n");
-  console.log(`${front} \n # Preview \n ${wake_content}`);
+  console.log(
+    `${front} \n # Preview \n \``` \n ${wake_content} \``` \n \n ${back}`
+  );
 
   try {
     // Get original filename to update that same file
