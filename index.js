@@ -13,7 +13,7 @@ const wakatime = new WakaTimeClient(wakatimeApiKey);
 const octokit = new Octokit({ auth: `token ${githubToken}` });
 
 async function main() {
-  console.log("entry main>>>>>>>>>");
+  // console.log("entry main>>>>>>>>>");
   const stats = await wakatime.getMyStats({ range: RANGE.LAST_7_DAYS });
   await updateGist(stats);
 }
@@ -41,7 +41,12 @@ async function updateGist(stats) {
 
     lines.push(line.join(" "));
   }
-  console.log("lines>>>>>>>>>", lines);
+  const front = ` # Wakabox-stats ![Update gist with WakaTime stats](https://github.com/underwindfall/wakabox-stats/workflows/Update%20gist%20with%20WakaTime%20stats/badge.svg)
+
+  Helper Project to display wakabox stats for github profile pages.`;
+
+  console.log(`${front} \n # Preview \n ${lines}`);
+
   if (lines.length == 0) return;
 
   try {
@@ -56,7 +61,7 @@ async function updateGist(stats) {
         }
       }
     });
-    console.log("filename>>>>>>>>>", filename);
+    // console.log("filename>>>>>>>>>", filename);
   } catch (error) {
     console.error(`Unable to update gist\n${error}`);
   }
