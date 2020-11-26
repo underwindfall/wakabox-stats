@@ -45,7 +45,7 @@ async function updateGist(stats) {
 
   Helper Project to display wakabox stats for github profile pages.`;
 
-  console.log(`${front} \n # Preview \n ${lines}`);
+  console.log(`${front} \n # Preview \n ${lines.join("\n")}`);
 
   if (lines.length == 0) return;
 
