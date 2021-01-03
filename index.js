@@ -13,7 +13,7 @@ const wakatime = new WakaTimeClient(wakatimeApiKey);
 const octokit = new Octokit({ auth: `token ${githubToken}` });
 
 async function main() {
-  // console.log("entry main>>>>>>>>>");
+  console.log("entry main>>>>>>>>>");
   const stats = await wakatime.getMyStats({ range: RANGE.LAST_7_DAYS });
   await updateGist(stats);
 }
@@ -25,7 +25,7 @@ async function updateGist(stats) {
   } catch (error) {
     console.error(`Unable to get gist\n${error}`);
   }
-  // console.log("stats>>>>>>>", stats);
+  console.log("stats>>>>>>>", stats);
   // console.log("gist>>>>>>>>>", gist);
   const lines = [];
   for (let i = 0; i < Math.min(stats.data.languages.length, 6); i++) {
