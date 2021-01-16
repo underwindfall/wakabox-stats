@@ -109,7 +109,7 @@ const bar_styles = [
   "⚪⚫"
 ];
 
-function unicodeProgressBar(p, style = 8, min_size = 24, max_size = 24) {
+function unicodeProgressBar(p, style = 6, min_size = 24, max_size = 24) {
   let d;
   let full;
   let m;
