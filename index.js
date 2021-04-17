@@ -48,7 +48,7 @@ async function updateGist(stats) {
   const back = `# Lincese \n
   MIT License
 
-  Copyright (c) 2020 Qifan Yang
+  Copyright (c) ${new Date().getFullYear()} Qifan Yang
   
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
