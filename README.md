@@ -13,7 +13,14 @@ C                  17 mins  ■■■▦□□□□□□□□□□□□□�
  ``` 
   
  
- # Lincese 
+ 
+  
+  # Waka time 
+
+  ![](https://wakatime.com/share/@underwindfall/04fb31b6-0c1f-434d-b3a5-ac5e62f5364c.svg)
+  ![](https://wakatime.com/share/@underwindfall/3d98f640-5c0f-4faf-b8df-1c48dec045b2.svg)
+  
+  # Lincese 
 
   MIT License
 
