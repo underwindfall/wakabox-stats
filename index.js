@@ -45,7 +45,13 @@ async function updateGist(stats) {
 
   Helper Project to display wakabox stats for github profile pages.`;
 
-  const back = `# Lincese \n
+  const back = `
+  
+  # Waka time \n
+  ![](https://wakatime.com/share/@underwindfall/04fb31b6-0c1f-434d-b3a5-ac5e62f5364c.svg)
+  ![](https://wakatime.com/share/@underwindfall/3d98f640-5c0f-4faf-b8df-1c48dec045b2.svg)
+  
+  # Lincese \n
   MIT License
 
   Copyright (c) ${new Date().getFullYear()} Qifan Yang
@@ -67,6 +73,7 @@ async function updateGist(stats) {
   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
   SOFTWARE.`;
+  
   if (lines.length == 0) return;
 
   const wake_content = ` \`\`\`  \n ${lines.join("\n")} \n \`\`\` \n `;
