@@ -8,7 +8,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   update-gist:
@@ -18,7 +18,7 @@ jobs:
       - name: Install
         run: npm ci
       - name: Update gist
-        run: node ./index.js > "README.md" --unhandled-rejections=strict
+        run: node ./index.js > "README.md"
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: 377ee88ba1fabd1e93516e48ca9c61eb
