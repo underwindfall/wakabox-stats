@@ -28,6 +28,7 @@ async function updateGist(stats) {
   // console.log("stats>>>>>>>", stats);
   // console.log("gist>>>>>>>>>", gist);
   const lines = [];
+  if (stats.data.languages == undefined) return;
   for (let i = 0; i < Math.min(stats.data.languages.length, 6); i++) {
     const data = stats.data.languages[i];
     const { name, percent, text: time } = data;
@@ -73,7 +74,7 @@ async function updateGist(stats) {
   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
   SOFTWARE.`;
-  
+
   if (lines.length == 0) return;
 
   const wake_content = ` \`\`\`  \n ${lines.join("\n")} \n \`\`\` \n `;
