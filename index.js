@@ -25,10 +25,14 @@ async function updateGist(stats) {
   } catch (error) {
     console.error(`Unable to get gist\n${error}`);
   }
-  // console.log("stats>>>>>>>", stats);
+  
   // console.log("gist>>>>>>>>>", gist);
   const lines = [];
-  if (stats.data.languages == undefined) return;
+  if (stats.data.languages == undefined) {
+    console.log("stats>>>>>>>", stats);
+    console.log("data>>>>>>>", stats.data);
+    return;
+  }
   for (let i = 0; i < Math.min(stats.data.languages.length, 6); i++) {
     const data = stats.data.languages[i];
     const { name, percent, text: time } = data;
