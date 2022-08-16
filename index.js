@@ -14,7 +14,7 @@ const octokit = new Octokit({ auth: `token ${githubToken}` });
 
 async function main() {
   // console.log("entry main>>>>>>>>>");
-  const stats = await wakatime.getMyStats({ range: RANGE.LAST_7_DAYS , timeout: '40', });
+  const stats = await wakatime.getMyStats({ range: RANGE.LAST_7_DAYS });
   await updateGist(stats);
 }
 
@@ -25,7 +25,7 @@ async function updateGist(stats) {
   } catch (error) {
     console.error(`Unable to get gist\n${error}`);
   }
-  
+
   // console.log("gist>>>>>>>>>", gist);
   const lines = [];
   if (stats.data.languages == undefined) {
