@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Java        11 hrs 35 mins  ■■■■■■■■■■■■■■■■■▦  84.7%
-Kotlin        1 hr 24 mins  ■■■■▥□□□□□□□□□□□□□  10.3%
-JavaScript         17 mins  ■■■□□□□□□□□□□□□□□□   2.1%
-GitIgnore file        10 mins  ■■▦□□□□□□□□□□□□□□□   1.3%
-XML                10 mins  ■■▦□□□□□□□□□□□□□□□   1.3%
-Gradle              0 secs  ■■▥□□□□□□□□□□□□□□□   0.1% 
+ Java        12 hrs 15 mins  ■■■■■■■■■▥□□  64.5%
+Kotlin       3 hrs 35 mins  ■■■■□□□□□□□□  18.9%
+JavaScript     1 hr 8 mins  ■■▥□□□□□□□□□   6.0%
+YAML               37 mins  ■■□□□□□□□□□□   3.3%
+Markdown           34 mins  ■■□□□□□□□□□□   3.0%
+XML                13 mins  ■▦□□□□□□□□□□   1.2% 
  ``` 
   
  
