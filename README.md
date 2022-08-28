@@ -4,8 +4,8 @@
  # Preview 
   
   ```  
- Java        13 hrs 43 mins  ■■■■■■■■■■■■■◱□□  68.8%
-Kotlin       2 hrs 46 mins  ■■■■▥□□□□□□□□□□□  13.9%
+ Java        13 hrs 43 mins  ■■■■■■■■■■■■■◱□□  69.0%
+Kotlin       2 hrs 43 mins  ■■■■▥□□□□□□□□□□□  13.7%
 JavaScript    1 hr 14 mins  ■■■◱□□□□□□□□□□□□   6.2%
 Markdown           59 mins  ■■■□□□□□□□□□□□□□   5.0%
 YAML               37 mins  ■■▦□□□□□□□□□□□□□   3.1%
