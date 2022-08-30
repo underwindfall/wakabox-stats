@@ -4,12 +4,11 @@
  # Preview 
   
   ```  
- Java        10 hrs 20 mins  ■■■■■■■■■■■■■■■■  85.2%
-Kotlin             39 mins  ■■■◱□□□□□□□□□□□□   5.4%
-Markdown           37 mins  ■■■□□□□□□□□□□□□□   5.1%
-JavaScript         21 mins  ■■▦□□□□□□□□□□□□□   3.0%
-XML                 7 mins  ■■▥□□□□□□□□□□□□□   1.1%
-INI                  1 min  ■■◱□□□□□□□□□□□□□   0.2% 
+ Java        13 hrs 58 mins  ■■■■■■■■■■■■■■■■  97.8%
+Markdown           10 mins  ■■▥□□□□□□□□□□□□□   1.2%
+JavaScript          5 mins  ■■▥□□□□□□□□□□□□□   0.6%
+INI                  1 min  ■■◱□□□□□□□□□□□□□   0.2%
+Kotlin               1 min  ■■◱□□□□□□□□□□□□□   0.2% 
  ``` 
   
  
