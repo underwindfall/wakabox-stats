@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Java        25 hrs 14 mins  ■■■■■■■■■■■■■■■■  98.9%
+ Java        23 hrs 46 mins  ■■■■■■■■■■■■■■■■  98.7%
 Markdown            7 mins  ■■◱□□□□□□□□□□□□□   0.5%
-JavaScript          5 mins  ■■◱□□□□□□□□□□□□□   0.4%
-Python              2 mins  ■■◱□□□□□□□□□□□□□   0.1%
-INI                  1 min  ■■◱□□□□□□□□□□□□□   0.1%
-Other               0 secs  ■■◱□□□□□□□□□□□□□   0.0% 
+Kotlin              6 mins  ■■◱□□□□□□□□□□□□□   0.4%
+Python              2 mins  ■■◱□□□□□□□□□□□□□   0.2%
+JavaScript           1 min  ■■◱□□□□□□□□□□□□□   0.1%
+Gradle              0 secs  ■■◱□□□□□□□□□□□□□   0.0% 
  ``` 
   
  
