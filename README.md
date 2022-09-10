@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Java          8 hrs 9 mins  ■■■■■■■■■■■■■■■■  98.1%
-Kotlin              7 mins  ■■▥□□□□□□□□□□□□□   1.5%
-JavaScript           1 min  ■■◱□□□□□□□□□□□□□   0.4%
-Python              0 secs  ■■◱□□□□□□□□□□□□□   0.0%
-Gradle              0 secs  ■■◱□□□□□□□□□□□□□   0.0%
-Other               0 secs  ■■◱□□□□□□□□□□□□□   0.0% 
+ Java         7 hrs 24 mins  ■■■■■■■■■■■■■■■▦  84.7%
+Kotlin             45 mins  ■■■▦□□□□□□□□□□□□   8.6%
+Groovy             27 mins  ■■■□□□□□□□□□□□□□   5.2%
+Gradle              6 mins  ■■▥□□□□□□□□□□□□□   1.2%
+XML                 0 secs  ■■◱□□□□□□□□□□□□□   0.2%
+Properties          0 secs  ■■◱□□□□□□□□□□□□□   0.1% 
  ``` 
   
  
