@@ -4,10 +4,10 @@
  # Preview 
   
   ```  
- Java         7 hrs 24 mins  ■■■■■■■■■■■■■■■▦  84.7%
-Kotlin             45 mins  ■■■▦□□□□□□□□□□□□   8.6%
-Groovy             27 mins  ■■■□□□□□□□□□□□□□   5.2%
-Gradle              6 mins  ■■▥□□□□□□□□□□□□□   1.2%
+ Java         6 hrs 23 mins  ■■■■■■■■■■■■■■■▥  82.8%
+Kotlin             45 mins  ■■■▦□□□□□□□□□□□□   9.7%
+Groovy             27 mins  ■■■◱□□□□□□□□□□□□   5.9%
+Gradle              6 mins  ■■▥□□□□□□□□□□□□□   1.3%
 XML                 0 secs  ■■◱□□□□□□□□□□□□□   0.2%
 Properties          0 secs  ■■◱□□□□□□□□□□□□□   0.1% 
  ``` 
