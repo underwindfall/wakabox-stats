@@ -4,7 +4,10 @@
  # Preview 
   
   ```  
- Java         6 hrs 32 mins  ■■■■■■■■■■■■■■■■ 100.0% 
+ Java           4 hrs 1 min  ■■■■■■■■■■■■■■■■ 100.0%
+Git                 0 secs  ■■◱□□□□□□□□□□□□□   0.0%
+Shrinker Config File         0 secs  ■■◱□□□□□□□□□□□□□   0.0%
+Properties          0 secs  ■■◱□□□□□□□□□□□□□   0.0% 
  ``` 
   
  
