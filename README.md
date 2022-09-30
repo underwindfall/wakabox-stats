@@ -4,7 +4,7 @@
  # Preview 
   
   ```  
- Java          2 hrs 4 mins  ■■■■■■■■■■■■■■■■  99.9%
+ Java         2 hrs 15 mins  ■■■■■■■■■■■■■■■■  99.9%
 Kotlin              0 secs  ■■◱□□□□□□□□□□□□□   0.1% 
  ``` 
   
