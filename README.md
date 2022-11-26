@@ -4,10 +4,10 @@
  # Preview 
   
   ```  
- Kotlin       36 hrs 2 mins  ■■■■■■■■■■■■▦□□□  64.7%
-Java        11 hrs 45 mins  ■■■■■▦□□□□□□□□□□  21.1%
-XML          4 hrs 39 mins  ■■■▥□□□□□□□□□□□□   8.4%
-JavaScript    1 hr 29 mins  ■■▦□□□□□□□□□□□□□   2.7%
+ Kotlin      37 hrs 12 mins  ■■■■■■■■■■■■▦□□□  65.2%
+Java        11 hrs 36 mins  ■■■■■▥□□□□□□□□□□  20.4%
+XML          5 hrs 15 mins  ■■■▦□□□□□□□□□□□□   9.2%
+JavaScript    1 hr 29 mins  ■■▦□□□□□□□□□□□□□   2.6%
 YAML               26 mins  ■■▥□□□□□□□□□□□□□   0.8%
 Python             24 mins  ■■▥□□□□□□□□□□□□□   0.7% 
  ``` 
