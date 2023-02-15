@@ -4,9 +4,9 @@
  # Preview 
   
   ```  
- Kotlin      47 hrs 26 mins  ■■■■■■■■■■■■■■■■  90.7%
-Java         2 hrs 24 mins  ■■■□□□□□□□□□□□□□   4.6%
-XML           1 hr 21 mins  ■■▦□□□□□□□□□□□□□   2.6%
+ Kotlin      48 hrs 30 mins  ■■■■■■■■■■■■■■■■  92.8%
+Java          1 hr 36 mins  ■■▦□□□□□□□□□□□□□   3.1%
+XML            1 hr 4 mins  ■■▥□□□□□□□□□□□□□   2.1%
 Text               26 mins  ■■▥□□□□□□□□□□□□□   0.9%
 JavaScript         18 mins  ■■◱□□□□□□□□□□□□□   0.6%
 JSON               10 mins  ■■◱□□□□□□□□□□□□□   0.3% 
