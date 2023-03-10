@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Kotlin      25 hrs 57 mins  ■■■■■■■■■■■■▥□□□  63.6%
-Java        13 hrs 39 mins  ■■■■■■■▦□□□□□□□□  33.5%
-XML                19 mins  ■■▥□□□□□□□□□□□□□   0.8%
-Protocol Buffer        14 mins  ■■◱□□□□□□□□□□□□□   0.6%
-Other              10 mins  ■■◱□□□□□□□□□□□□□   0.4%
-HgIgnore file         8 mins  ■■◱□□□□□□□□□□□□□   0.3% 
+ Kotlin      19 hrs 35 mins  ■■■■■■■■■■■▥□□□□  58.1%
+Java        13 hrs 28 mins  ■■■■■■■■▦□□□□□□□  40.0%
+XML                19 mins  ■■▥□□□□□□□□□□□□□   1.0%
+Other              10 mins  ■■◱□□□□□□□□□□□□□   0.5%
+ObjectiveC          3 mins  ■■◱□□□□□□□□□□□□□   0.2%
+JavaScript          2 mins  ■■◱□□□□□□□□□□□□□   0.1% 
  ``` 
   
  
