@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Kotlin      19 hrs 46 mins  ■■■■■■■■■■■■■◱□□  68.1%
-Java         7 hrs 36 mins  ■■■■■■▥□□□□□□□□□  26.2%
-XML           1 hr 32 mins  ■■■◱□□□□□□□□□□□□   5.3%
+ Kotlin      22 hrs 29 mins  ■■■■■■■■■■■■■■▦□  78.3%
+Java         3 hrs 58 mins  ■■■■▥□□□□□□□□□□□  13.8%
+XML          2 hrs 11 mins  ■■■▥□□□□□□□□□□□□   7.6%
 ObjectiveC          3 mins  ■■◱□□□□□□□□□□□□□   0.2%
 Text                 1 min  ■■◱□□□□□□□□□□□□□   0.1%
-Shell Script         0 secs  ■■◱□□□□□□□□□□□□□   0.0% 
+Shrinker Config File         0 secs  ■■◱□□□□□□□□□□□□□   0.0% 
  ``` 
   
  
