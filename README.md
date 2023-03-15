@@ -4,9 +4,9 @@
  # Preview 
   
   ```  
- Kotlin      22 hrs 29 mins  ■■■■■■■■■■■■■■▦□  78.3%
-Java         3 hrs 58 mins  ■■■■▥□□□□□□□□□□□  13.8%
-XML          2 hrs 11 mins  ■■■▥□□□□□□□□□□□□   7.6%
+ Kotlin      22 hrs 47 mins  ■■■■■■■■■■■■■■▥□  76.9%
+Java         4 hrs 27 mins  ■■■■▦□□□□□□□□□□□  15.1%
+XML          2 hrs 18 mins  ■■■▥□□□□□□□□□□□□   7.8%
 ObjectiveC          3 mins  ■■◱□□□□□□□□□□□□□   0.2%
 Text                 1 min  ■■◱□□□□□□□□□□□□□   0.1%
 Shrinker Config File         0 secs  ■■◱□□□□□□□□□□□□□   0.0% 
