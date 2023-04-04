@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Kotlin      59 hrs 30 mins  ■■■■■■■■■■■■■■■■  97.5%
-Java          1 hr 14 mins  ■■▥□□□□□□□□□□□□□   2.0%
+ Kotlin      64 hrs 17 mins  ■■■■■■■■■■■■■■■■  98.5%
+Java               41 mins  ■■▥□□□□□□□□□□□□□   1.1%
+XML                 8 mins  ■■◱□□□□□□□□□□□□□   0.2%
 Properties          5 mins  ■■◱□□□□□□□□□□□□□   0.1%
-Gradle              3 mins  ■■◱□□□□□□□□□□□□□   0.1%
-XML                 3 mins  ■■◱□□□□□□□□□□□□□   0.1%
-Groovy              2 mins  ■■◱□□□□□□□□□□□□□   0.1% 
+Markdown             1 min  ■■◱□□□□□□□□□□□□□   0.1%
+Gradle              0 secs  ■■◱□□□□□□□□□□□□□   0.0% 
  ``` 
   
  
