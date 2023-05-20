@@ -4,9 +4,9 @@
  # Preview 
   
   ```  
- Kotlin       46 hrs 2 mins  ■■■■■■■■■■■■■■■■  94.3%
-Java          1 hr 27 mins  ■■▦□□□□□□□□□□□□□   3.0%
-XML            1 hr 9 mins  ■■▦□□□□□□□□□□□□□   2.4%
+ Kotlin      47 hrs 19 mins  ■■■■■■■■■■■■■■■■  92.2%
+Java          1 hr 59 mins  ■■■□□□□□□□□□□□□□   3.9%
+XML           1 hr 52 mins  ■■▦□□□□□□□□□□□□□   3.7%
 Text                7 mins  ■■◱□□□□□□□□□□□□□   0.2%
 Protocol Buffer          1 min  ■■◱□□□□□□□□□□□□□   0.1%
 YAML                0 secs  ■■◱□□□□□□□□□□□□□   0.0% 
