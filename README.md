@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Kotlin      23 hrs 47 mins  ■■■■■■■■■■■■■■■■  88.7%
-Java         2 hrs 27 mins  ■■■▦□□□□□□□□□□□□   9.2%
-XML                14 mins  ■■▥□□□□□□□□□□□□□   0.9%
-JSON               11 mins  ■■▥□□□□□□□□□□□□□   0.7%
-JavaScript          2 mins  ■■◱□□□□□□□□□□□□□   0.2%
-textmate            2 mins  ■■◱□□□□□□□□□□□□□   0.2% 
+ Kotlin      27 hrs 17 mins  ■■■■■■■■■■■■■■■■  88.5%
+Java         2 hrs 41 mins  ■■■▦□□□□□□□□□□□□   8.7%
+XML                23 mins  ■■▥□□□□□□□□□□□□□   1.3%
+JSON               11 mins  ■■◱□□□□□□□□□□□□□   0.6%
+protobuf            4 mins  ■■◱□□□□□□□□□□□□□   0.3%
+Protocol Buffer         4 mins  ■■◱□□□□□□□□□□□□□   0.2% 
  ``` 
   
  
