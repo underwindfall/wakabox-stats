@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Kotlin      26 hrs 54 mins  ■■■■■■■■■■■■■■■■  91.7%
-Java          1 hr 19 mins  ■■■□□□□□□□□□□□□□   4.5%
-XML            1 hr 6 mins  ■■■□□□□□□□□□□□□□   3.8%
-JSON                0 secs  ■■◱□□□□□□□□□□□□□   0.0%
-EditorConfig         0 secs  ■■◱□□□□□□□□□□□□□   0.0%
-protobuf            0 secs  ■■◱□□□□□□□□□□□□□   0.0% 
+ Kotlin      28 hrs 29 mins  ■■■■■■■■■■■■■■■■  94.1%
+Java               53 mins  ■■▦□□□□□□□□□□□□□   2.9%
+XML                32 mins  ■■▥□□□□□□□□□□□□□   1.8%
+protobuf           13 mins  ■■▥□□□□□□□□□□□□□   0.8%
+Python              7 mins  ■■◱□□□□□□□□□□□□□   0.4%
+YAML                0 secs  ■■◱□□□□□□□□□□□□□   0.0% 
  ``` 
   
  
