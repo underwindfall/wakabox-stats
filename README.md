@@ -4,7 +4,7 @@
  # Preview 
   
   ```  
- Kotlin       7 hrs 20 mins  ■■■■■■■■■■■■■■■■  96.3%
+ Kotlin        7 hrs 7 mins  ■■■■■■■■■■■■■■■■  96.3%
 Java               11 mins  ■■▦□□□□□□□□□□□□□   2.6%
 Gradle              3 mins  ■■▥□□□□□□□□□□□□□   0.7%
 XML                  1 min  ■■◱□□□□□□□□□□□□□   0.4%
