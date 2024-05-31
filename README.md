@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Kotlin       30 hrs 9 mins  ■■■■■■■■■■■■■■■■  95.1%
-Java               58 mins  ■■▦□□□□□□□□□□□□□   3.1%
-XML                16 mins  ■■▥□□□□□□□□□□□□□   0.9%
+ Kotlin      29 hrs 38 mins  ■■■■■■■■■■■■■■■■  95.9%
+Java               45 mins  ■■▦□□□□□□□□□□□□□   2.5%
 Text               12 mins  ■■▥□□□□□□□□□□□□□   0.7%
-YAML                4 mins  ■■◱□□□□□□□□□□□□□   0.3%
-textmate            0 secs  ■■◱□□□□□□□□□□□□□   0.0% 
+XML                12 mins  ■■▥□□□□□□□□□□□□□   0.7%
+YAML                3 mins  ■■◱□□□□□□□□□□□□□   0.2%
+Shrinker Config File         0 secs  ■■◱□□□□□□□□□□□□□   0.0% 
  ``` 
   
  
