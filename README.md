@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Kotlin       2 hrs 18 mins  ■■■■■■■■■■■■□□□□  60.3%
-Text           1 hr 9 mins  ■■■■■■■◱□□□□□□□□  30.4%
-Java Properties        12 mins  ■■■◱□□□□□□□□□□□□   5.5%
-Java                7 mins  ■■▦□□□□□□□□□□□□□   3.3%
-Properties          0 secs  ■■◱□□□□□□□□□□□□□   0.2%
-YAML                0 secs  ■■◱□□□□□□□□□□□□□   0.2% 
+ Kotlin        1 hr 56 mins  ■■■■■■■■■■■■■■■▥  82.6%
+Text               23 mins  ■■■■■□□□□□□□□□□□  16.5%
+Java                 1 min  ■■▥□□□□□□□□□□□□□   0.9%
+Shrinker Config File         0 secs  ■■◱□□□□□□□□□□□□□   0.0%
+Shell Script         0 secs  ■■◱□□□□□□□□□□□□□   0.0%
+Gradle              0 secs  ■■◱□□□□□□□□□□□□□   0.0% 
  ``` 
   
  
