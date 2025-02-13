@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Kotlin       3 hrs 37 mins  ■■■■■■■■■■■■■■■◱  81.6%
-Java               34 mins  ■■■■◱□□□□□□□□□□□  12.9%
-Markdown           13 mins  ■■■□□□□□□□□□□□□□   5.2%
-Text                0 secs  ■■◱□□□□□□□□□□□□□   0.1%
-JSON                0 secs  ■■◱□□□□□□□□□□□□□   0.1%
-Gradle              0 secs  ■■◱□□□□□□□□□□□□□   0.0% 
+ Kotlin       5 hrs 14 mins  ■■■■■■■■■■■■■■■▥  83.3%
+Java               46 mins  ■■■■◱□□□□□□□□□□□  12.3%
+Markdown           13 mins  ■■▦□□□□□□□□□□□□□   3.7%
+textmate             1 min  ■■◱□□□□□□□□□□□□□   0.3%
+YAML                0 secs  ■■◱□□□□□□□□□□□□□   0.2%
+Shrinker Config File         0 secs  ■■◱□□□□□□□□□□□□□   0.1% 
  ``` 
   
  
