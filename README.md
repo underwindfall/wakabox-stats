@@ -4,12 +4,8 @@
  # Preview 
   
   ```  
- Java               46 mins  ■■■■■■■■■▥□□□□□□  44.9%
-Kotlin             41 mins  ■■■■■■■■▦□□□□□□□  39.9%
-Java Properties        11 mins  ■■■■□□□□□□□□□□□□  10.7%
-XML                 2 mins  ■■▦□□□□□□□□□□□□□   2.6%
-Markdown            0 secs  ■■▥□□□□□□□□□□□□□   0.9%
-Properties          0 secs  ■■▥□□□□□□□□□□□□□   0.9% 
+ Java               14 mins  ■■■■■■■■■■■□□□□□  54.8%
+Kotlin             12 mins  ■■■■■■■■■▥□□□□□□  45.2% 
  ``` 
   
  
