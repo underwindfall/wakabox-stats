@@ -4,8 +4,8 @@
  # Preview 
   
   ```  
- Kotlin             36 mins  ■■■■■■■■■■■■■■◱□  75.4%
-Java               11 mins  ■■■■■■◱□□□□□□□□□  24.4%
+ Kotlin             36 mins  ■■■■■■■■■■■■■■◱□  75.6%
+Java               11 mins  ■■■■■■◱□□□□□□□□□  24.2%
 JavaScript          0 secs  ■■◱□□□□□□□□□□□□□   0.1%
 XML                 0 secs  ■■◱□□□□□□□□□□□□□   0.0%
 textmate            0 secs  ■■◱□□□□□□□□□□□□□   0.0% 
