@@ -4,8 +4,10 @@
  # Preview 
   
   ```  
- Kotlin              0 secs  ■■■■■■■■■■■■■■■■  99.4%
-Java                0 secs  ■■◱□□□□□□□□□□□□□   0.6% 
+ Kotlin       3 hrs 31 mins  ■■■■■■■■■■■■■■■■  97.1%
+Java                6 mins  ■■▦□□□□□□□□□□□□□   2.9%
+Shell Script         0 secs  ■■◱□□□□□□□□□□□□□   0.0%
+Shrinker Config File         0 secs  ■■◱□□□□□□□□□□□□□   0.0% 
  ``` 
   
  
