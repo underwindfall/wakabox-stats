@@ -4,11 +4,11 @@
  # Preview 
   
   ```  
- Kotlin       9 hrs 43 mins  ■■■■■■■■■■■■▦□□□  65.8%
-Java         4 hrs 53 mins  ■■■■■■■▥□□□□□□□□  33.1%
-Markdown            5 mins  ■■▥□□□□□□□□□□□□□   0.6%
-XML                 2 mins  ■■◱□□□□□□□□□□□□□   0.3%
-YAML                 1 min  ■■◱□□□□□□□□□□□□□   0.1%
+ Kotlin       6 hrs 13 mins  ■■■■■■■■■■■◱□□□□  56.2%
+Java         4 hrs 49 mins  ■■■■■■■■■◱□□□□□□  43.6%
+YAML                 1 min  ■■◱□□□□□□□□□□□□□   0.2%
+Shell Script         0 secs  ■■◱□□□□□□□□□□□□□   0.0%
+XML                 0 secs  ■■◱□□□□□□□□□□□□□   0.0%
 Text                0 secs  ■■◱□□□□□□□□□□□□□   0.0% 
  ``` 
   
