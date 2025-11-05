@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Kotlin       6 hrs 13 mins  ■■■■■■■■■■■◱□□□□  56.2%
-Java         4 hrs 49 mins  ■■■■■■■■■◱□□□□□□  43.6%
-YAML                 1 min  ■■◱□□□□□□□□□□□□□   0.2%
-Shell Script         0 secs  ■■◱□□□□□□□□□□□□□   0.0%
-XML                 0 secs  ■■◱□□□□□□□□□□□□□   0.0%
-Text                0 secs  ■■◱□□□□□□□□□□□□□   0.0% 
+ Kotlin       5 hrs 29 mins  ■■■■■■■■■■■■■▥□□  70.0%
+Java          1 hr 41 mins  ■■■■■▦□□□□□□□□□□  21.5%
+YAML               26 mins  ■■■◱□□□□□□□□□□□□   5.7%
+Properties          7 mins  ■■▥□□□□□□□□□□□□□   1.6%
+Java Properties         3 mins  ■■▥□□□□□□□□□□□□□   0.8%
+XML                  1 min  ■■◱□□□□□□□□□□□□□   0.2% 
  ``` 
   
  
