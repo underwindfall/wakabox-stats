@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Kotlin      16 hrs 20 mins  ■■■■■■■■■■■■■■■■  91.9%
-Java               43 mins  ■■■□□□□□□□□□□□□□   4.1%
-YAML               27 mins  ■■▦□□□□□□□□□□□□□   2.5%
-Properties          7 mins  ■■▥□□□□□□□□□□□□□   0.7%
-Java Properties         3 mins  ■■◱□□□□□□□□□□□□□   0.4%
-JSON                2 mins  ■■◱□□□□□□□□□□□□□   0.2% 
+ Kotlin      15 hrs 33 mins  ■■■■■■■■■■■■■■■■  94.9%
+Java               40 mins  ■■■□□□□□□□□□□□□□   4.2%
+XML                 6 mins  ■■▥□□□□□□□□□□□□□   0.7%
+JSON                2 mins  ■■◱□□□□□□□□□□□□□   0.2%
+Shrinker Config File         0 secs  ■■◱□□□□□□□□□□□□□   0.0%
+YAML                0 secs  ■■◱□□□□□□□□□□□□□   0.0% 
  ``` 
   
  
