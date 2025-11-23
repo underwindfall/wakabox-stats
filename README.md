@@ -4,9 +4,9 @@
  # Preview 
   
   ```  
- Kotlin      22 hrs 44 mins  ■■■■■■■■■■■■■■■■  87.4%
-Java         2 hrs 43 mins  ■■■■□□□□□□□□□□□□  10.5%
-JSON               20 mins  ■■▥□□□□□□□□□□□□□   1.3%
+ Kotlin      23 hrs 43 mins  ■■■■■■■■■■■■■■■■  87.8%
+Java         2 hrs 45 mins  ■■■■□□□□□□□□□□□□  10.2%
+JSON               20 mins  ■■▥□□□□□□□□□□□□□   1.2%
 XML                10 mins  ■■▥□□□□□□□□□□□□□   0.7%
 Shrinker Config File         0 secs  ■■◱□□□□□□□□□□□□□   0.1%
 Text                0 secs  ■■◱□□□□□□□□□□□□□   0.1% 
