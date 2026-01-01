@@ -4,11 +4,11 @@
  # Preview 
   
   ```  
- Kotlin      34 hrs 41 mins  ■■■■■■■■■■■■■■■■  93.3%
-XML            1 hr 7 mins  ■■▦□□□□□□□□□□□□□   3.0%
-Java           1 hr 5 mins  ■■▦□□□□□□□□□□□□□   3.0%
-YAML                7 mins  ■■◱□□□□□□□□□□□□□   0.3%
+ Kotlin      31 hrs 43 mins  ■■■■■■■■■■■■■■■■  92.5%
+XML           1 hr 38 mins  ■■■□□□□□□□□□□□□□   4.8%
+Java               42 mins  ■■▥□□□□□□□□□□□□□   2.1%
 JSON                6 mins  ■■◱□□□□□□□□□□□□□   0.3%
+YAML                4 mins  ■■◱□□□□□□□□□□□□□   0.2%
 Text                0 secs  ■■◱□□□□□□□□□□□□□   0.0% 
  ``` 
   
@@ -24,7 +24,7 @@ Text                0 secs  ■■◱□□□□□□□□□□□□□   0
 
   MIT License
 
-  Copyright (c) 2025 Qifan Yang
+  Copyright (c) 2026 Qifan Yang
   
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
