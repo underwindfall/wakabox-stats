@@ -4,7 +4,7 @@
  # Preview 
   
   ```  
- Kotlin        6 hrs 9 mins  ■■■■■■■■■■■■■■■■  99.8%
+ Kotlin       6 hrs 30 mins  ■■■■■■■■■■■■■■■■  99.8%
 Java                0 secs  ■■◱□□□□□□□□□□□□□   0.2%
 XML                 0 secs  ■■◱□□□□□□□□□□□□□   0.0%
 EditorConfig         0 secs  ■■◱□□□□□□□□□□□□□   0.0% 
