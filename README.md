@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Other        2 hrs 49 mins  ■■■■■■■■■□□□□□□□  41.8%
-Markdown      1 hr 51 mins  ■■■■■■▦□□□□□□□□□  27.5%
-Kotlin        1 hr 27 mins  ■■■■■▦□□□□□□□□□□  21.4%
-JSON               31 mins  ■■■▥□□□□□□□□□□□□   7.9%
-JavaScript          2 mins  ■■▥□□□□□□□□□□□□□   0.7%
-Text                2 mins  ■■◱□□□□□□□□□□□□□   0.5% 
+ Markdown     2 hrs 31 mins  ■■■■■■■■▦□□□□□□□  40.0%
+Other         1 hr 56 mins  ■■■■■■■◱□□□□□□□□  30.9%
+Kotlin        1 hr 20 mins  ■■■■■▦□□□□□□□□□□  21.4%
+JSON               14 mins  ■■■□□□□□□□□□□□□□   3.9%
+HTML                9 mins  ■■▦□□□□□□□□□□□□□   2.6%
+JavaScript          2 mins  ■■▥□□□□□□□□□□□□□   0.8% 
  ``` 
   
  
