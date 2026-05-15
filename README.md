@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Kotlin        11 hrs 1 min  ■■■■■■■■■■□□□□□□  47.9%
-Markdown     5 hrs 18 mins  ■■■■■■□□□□□□□□□□  23.1%
-Python       2 hrs 26 mins  ■■■■□□□□□□□□□□□□  10.6%
-Text          1 hr 10 mins  ■■■□□□□□□□□□□□□□   5.1%
-JSON                  1 hr  ■■■□□□□□□□□□□□□□   4.4%
-Other              39 mins  ■■▦□□□□□□□□□□□□□   2.9% 
+ Kotlin      11 hrs 12 mins  ■■■■■■■■■▦□□□□□□  46.5%
+Markdown     5 hrs 21 mins  ■■■■■▦□□□□□□□□□□  22.3%
+Python       2 hrs 28 mins  ■■■■□□□□□□□□□□□□  10.3%
+Text          1 hr 10 mins  ■■■□□□□□□□□□□□□□   4.9%
+JSON                  1 hr  ■■■□□□□□□□□□□□□□   4.2%
+Other              54 mins  ■■■□□□□□□□□□□□□□   3.8% 
  ``` 
   
  
