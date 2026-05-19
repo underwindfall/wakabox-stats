@@ -1,45 +1,45 @@
-stats>>>>>>> {
-  data: {
-    status: 'pending_update',
-    is_up_to_date: false,
-    is_up_to_date_pending_future: false,
-    is_stuck: false,
-    is_already_updating: false,
-    range: 'last_7_days',
-    percent_calculated: 0,
-    timeout: 15,
-    timezone: 'Asia/Shanghai',
-    writes_only: false,
-    ai_line_changes_total: 0,
-    username: 'underwindfall',
-    is_including_today: false,
-    human_readable_range: 'last week',
-    is_coding_activity_visible: true,
-    is_language_usage_visible: true,
-    is_editor_usage_visible: true,
-    is_category_usage_visible: true,
-    is_os_usage_visible: true
-  },
-  message: 'Calculating stats for this user. Check back later.'
-}
-data>>>>>>> {
-  status: 'pending_update',
-  is_up_to_date: false,
-  is_up_to_date_pending_future: false,
-  is_stuck: false,
-  is_already_updating: false,
-  range: 'last_7_days',
-  percent_calculated: 0,
-  timeout: 15,
-  timezone: 'Asia/Shanghai',
-  writes_only: false,
-  ai_line_changes_total: 0,
-  username: 'underwindfall',
-  is_including_today: false,
-  human_readable_range: 'last week',
-  is_coding_activity_visible: true,
-  is_language_usage_visible: true,
-  is_editor_usage_visible: true,
-  is_category_usage_visible: true,
-  is_os_usage_visible: true
-}
+ # Wakabox-stats ![Update gist with WakaTime stats](https://github.com/underwindfall/wakabox-stats/workflows/Update%20gist%20with%20WakaTime%20stats/badge.svg)
+
+  Helper Project to display wakabox stats for github profile pages. 
+ # Preview 
+  
+  ```  
+ Kotlin       6 hrs 24 mins  ■■■■■■■◱□□□□□□□□  31.9%
+Markdown     5 hrs 56 mins  ■■■■■■■□□□□□□□□□  29.6%
+Python       2 hrs 24 mins  ■■■■◱□□□□□□□□□□□  12.0%
+Text          1 hr 22 mins  ■■■◱□□□□□□□□□□□□   6.8%
+Other          1 hr 4 mins  ■■■◱□□□□□□□□□□□□   5.4%
+JSON           1 hr 2 mins  ■■■□□□□□□□□□□□□□   5.2% 
+ ``` 
+  
+ 
+ 
+  
+  # Waka time 
+
+  ![](https://wakatime.com/share/@underwindfall/04fb31b6-0c1f-434d-b3a5-ac5e62f5364c.svg)
+  ![](https://wakatime.com/share/@underwindfall/3d98f640-5c0f-4faf-b8df-1c48dec045b2.svg)
+  
+  # Lincese 
+
+  MIT License
+
+  Copyright (c) 2026 Qifan Yang
+  
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+  
+  The above copyright notice and this permission notice shall be included in all
+  copies or substantial portions of the Software.
+  
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  SOFTWARE.
