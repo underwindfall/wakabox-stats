@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Kotlin       7 hrs 14 mins  ■■■■■■■■■■■■■◱□□  68.7%
-Markdown      2 hrs 7 mins  ■■■■■▥□□□□□□□□□□  20.2%
-YAML               29 mins  ■■■□□□□□□□□□□□□□   4.6%
-Other              12 mins  ■■▥□□□□□□□□□□□□□   1.9%
-Objective-C         5 mins  ■■▥□□□□□□□□□□□□□   0.9%
-Bash                5 mins  ■■▥□□□□□□□□□□□□□   0.9% 
+ Kotlin        6 hrs 2 mins  ■■■■■■■■■■■▦□□□□  58.6%
+Markdown     2 hrs 44 mins  ■■■■■■▥□□□□□□□□□  26.6%
+YAML               29 mins  ■■■□□□□□□□□□□□□□   4.7%
+Other              23 mins  ■■■□□□□□□□□□□□□□   3.8%
+JSON               10 mins  ■■▥□□□□□□□□□□□□□   1.7%
+Python              6 mins  ■■▥□□□□□□□□□□□□□   1.0% 
  ``` 
   
  
