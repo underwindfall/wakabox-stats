@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Markdown     9 hrs 39 mins  ■■■■■■■■■■□□□□□□  48.8%
-Kotlin       3 hrs 55 mins  ■■■■■▥□□□□□□□□□□  19.9%
-JSON          1 hr 38 mins  ■■■▥□□□□□□□□□□□□   8.3%
-Text           1 hr 9 mins  ■■■◱□□□□□□□□□□□□   5.9%
-Python             54 mins  ■■■□□□□□□□□□□□□□   4.6%
-Image (png)        31 mins  ■■▦□□□□□□□□□□□□□   2.6% 
+ Markdown     18 hrs 6 mins  ■■■■■■■■■■▥□□□□□  51.9%
+Python       5 hrs 53 mins  ■■■■■□□□□□□□□□□□  16.9%
+TSV          3 hrs 55 mins  ■■■■□□□□□□□□□□□□  11.3%
+Text         2 hrs 25 mins  ■■■▥□□□□□□□□□□□□   7.0%
+JSON          1 hr 40 mins  ■■■□□□□□□□□□□□□□   4.8%
+Kotlin             59 mins  ■■▦□□□□□□□□□□□□□   2.9% 
  ``` 
   
  
