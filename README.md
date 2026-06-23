@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Markdown     3 hrs 21 mins  ■■■■■■■■■□□□□□□□  41.5%
-Kotlin       2 hrs 21 mins  ■■■■■■■□□□□□□□□□  29.1%
-Objective-C        36 mins  ■■■▥□□□□□□□□□□□□   7.5%
-Other              33 mins  ■■■▥□□□□□□□□□□□□   7.0%
-Text               30 mins  ■■■◱□□□□□□□□□□□□   6.3%
-Swift              26 mins  ■■■◱□□□□□□□□□□□□   5.4% 
+ Kotlin       2 hrs 22 mins  ■■■■■■■■■■▥□□□□□  51.9%
+Markdown      1 hr 15 mins  ■■■■■■▦□□□□□□□□□  27.5%
+Text               30 mins  ■■■■□□□□□□□□□□□□  11.2%
+Python             13 mins  ■■■□□□□□□□□□□□□□   4.8%
+Other              10 mins  ■■■□□□□□□□□□□□□□   4.0%
+YAML                0 secs  ■■◱□□□□□□□□□□□□□   0.3% 
  ``` 
   
  
