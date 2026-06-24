@@ -4,11 +4,11 @@
  # Preview 
   
   ```  
- Kotlin       2 hrs 22 mins  ■■■■■■■■■■▥□□□□□  51.9%
-Markdown      1 hr 15 mins  ■■■■■■▦□□□□□□□□□  27.5%
-Text               30 mins  ■■■■□□□□□□□□□□□□  11.2%
-Python             13 mins  ■■■□□□□□□□□□□□□□   4.8%
-Other              10 mins  ■■■□□□□□□□□□□□□□   4.0%
+ Kotlin       2 hrs 19 mins  ■■■■■■■■■■▦□□□□□  52.7%
+Markdown       1 hr 8 mins  ■■■■■■▥□□□□□□□□□  26.0%
+Text               30 mins  ■■■■◱□□□□□□□□□□□  11.6%
+Python             13 mins  ■■■□□□□□□□□□□□□□   5.0%
+Other              10 mins  ■■■□□□□□□□□□□□□□   4.1%
 YAML                0 secs  ■■◱□□□□□□□□□□□□□   0.3% 
  ``` 
   
