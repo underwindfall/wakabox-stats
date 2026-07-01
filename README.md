@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Markdown     3 hrs 58 mins  ■■■■■■■■■▥□□□□□□  45.7%
-Kotlin       2 hrs 31 mins  ■■■■■■■□□□□□□□□□  29.0%
-Bash               36 mins  ■■■▥□□□□□□□□□□□□   7.0%
-Other              35 mins  ■■■◱□□□□□□□□□□□□   6.8%
-Swift              35 mins  ■■■◱□□□□□□□□□□□□   6.8%
-Image (png)         7 mins  ■■▥□□□□□□□□□□□□□   1.5% 
+ Markdown     5 hrs 46 mins  ■■■■■■■■■■▦□□□□□  52.6%
+Kotlin       2 hrs 31 mins  ■■■■■■□□□□□□□□□□  23.0%
+Swift              52 mins  ■■■▥□□□□□□□□□□□□   7.9%
+Bash               47 mins  ■■■▥□□□□□□□□□□□□   7.2%
+Other              35 mins  ■■■◱□□□□□□□□□□□□   5.4%
+Image (png)         7 mins  ■■▥□□□□□□□□□□□□□   1.2% 
  ``` 
   
  
