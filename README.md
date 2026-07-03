@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Markdown     7 hrs 42 mins  ■■■■■■■■■■■□□□□□  54.3%
-Kotlin       2 hrs 24 mins  ■■■■■□□□□□□□□□□□  17.0%
-Swift         1 hr 56 mins  ■■■■▥□□□□□□□□□□□  13.6%
-Bash               47 mins  ■■■◱□□□□□□□□□□□□   5.6%
-Other              35 mins  ■■■□□□□□□□□□□□□□   4.2%
-JSON               17 mins  ■■▥□□□□□□□□□□□□□   2.0% 
+ Markdown     6 hrs 37 mins  ■■■■■■■■■▦□□□□□□  47.0%
+Swift        3 hrs 35 mins  ■■■■■■◱□□□□□□□□□  25.4%
+Kotlin         1 hr 9 mins  ■■■▥□□□□□□□□□□□□   8.2%
+Objective-C    1 hr 6 mins  ■■■▥□□□□□□□□□□□□   7.8%
+Bash               53 mins  ■■■◱□□□□□□□□□□□□   6.3%
+Other              18 mins  ■■▦□□□□□□□□□□□□□   2.2% 
  ``` 
   
  
