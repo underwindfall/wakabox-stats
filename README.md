@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Kotlin       4 hrs 51 mins  ■■■■■■■■■▦□□□□□□  46.3%
-Markdown     3 hrs 28 mins  ■■■■■■■▥□□□□□□□□  33.1%
-Swift              44 mins  ■■■▥□□□□□□□□□□□□   7.1%
-YAML               23 mins  ■■▦□□□□□□□□□□□□□   3.7%
+ Kotlin       5 hrs 28 mins  ■■■■■■■■■■▥□□□□□  51.1%
+Markdown      3 hrs 6 mins  ■■■■■■■□□□□□□□□□  29.0%
+Swift              44 mins  ■■■▥□□□□□□□□□□□□   6.9%
+Java               23 mins  ■■▦□□□□□□□□□□□□□   3.6%
 Bash               19 mins  ■■▦□□□□□□□□□□□□□   3.0%
-Java               17 mins  ■■▦□□□□□□□□□□□□□   2.8% 
+YAML               18 mins  ■■▦□□□□□□□□□□□□□   2.8% 
  ``` 
   
  
