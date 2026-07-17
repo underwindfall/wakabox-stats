@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Kotlin       2 hrs 44 mins  ■■■■■■■■▥□□□□□□□  38.4%
-Markdown     2 hrs 31 mins  ■■■■■■■■□□□□□□□□  35.4%
-Swift              47 mins  ■■■■□□□□□□□□□□□□  11.0%
-Java               27 mins  ■■■◱□□□□□□□□□□□□   6.4%
-Bash               19 mins  ■■■□□□□□□□□□□□□□   4.5%
-JavaScript         12 mins  ■■▦□□□□□□□□□□□□□   2.9% 
+ Markdown      2 hrs 9 mins  ■■■■■■■■□□□□□□□□  35.3%
+Kotlin        1 hr 28 mins  ■■■■■■◱□□□□□□□□□  24.2%
+Java               40 mins  ■■■■□□□□□□□□□□□□  11.1%
+Python             21 mins  ■■■◱□□□□□□□□□□□□   5.8%
+Image (png)        19 mins  ■■■□□□□□□□□□□□□□   5.3%
+Swift              17 mins  ■■■□□□□□□□□□□□□□   4.8% 
  ``` 
   
  
