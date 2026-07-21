@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Markdown      2 hrs 9 mins  ■■■■■■■■◱□□□□□□□  36.6%
-Kotlin        1 hr 28 mins  ■■■■■■◱□□□□□□□□□  25.1%
-Java               40 mins  ■■■■□□□□□□□□□□□□  11.6%
-Python             21 mins  ■■■◱□□□□□□□□□□□□   6.0%
-Image (png)        19 mins  ■■■◱□□□□□□□□□□□□   5.5%
-Swift              17 mins  ■■■□□□□□□□□□□□□□   4.9% 
+ Markdown     3 hrs 15 mins  ■■■■■■■■■■□□□□□□  48.5%
+Kotlin             59 mins  ■■■■▦□□□□□□□□□□□  14.7%
+JSON               27 mins  ■■■▥□□□□□□□□□□□□   6.9%
+Java               27 mins  ■■■◱□□□□□□□□□□□□   6.7%
+Python             21 mins  ■■■□□□□□□□□□□□□□   5.3%
+Image (png)        19 mins  ■■■□□□□□□□□□□□□□   4.8% 
  ``` 
   
  
