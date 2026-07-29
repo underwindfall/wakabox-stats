@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Markdown      1 hr 47 mins  ■■■■■■■■□□□□□□□□  35.0%
-Kotlin        1 hr 40 mins  ■■■■■■■▥□□□□□□□□  32.8%
-Swift         1 hr 19 mins  ■■■■■■▥□□□□□□□□□  25.8%
-YAML               13 mins  ■■■□□□□□□□□□□□□□   4.5%
-Java                2 mins  ■■▥□□□□□□□□□□□□□   0.9%
-Other                1 min  ■■◱□□□□□□□□□□□□□   0.4% 
+ Markdown       1 hr 8 mins  ■■■■■■■■■■□□□□□□  48.5%
+Swift              39 mins  ■■■■■■▦□□□□□□□□□  28.0%
+Kotlin             29 mins  ■■■■■▥□□□□□□□□□□  20.8%
+Other               2 mins  ■■▥□□□□□□□□□□□□□   1.4%
+Bash                0 secs  ■■◱□□□□□□□□□□□□□   0.6%
+Objective-C         0 secs  ■■◱□□□□□□□□□□□□□   0.6% 
  ``` 
   
  
