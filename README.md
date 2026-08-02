@@ -4,7 +4,7 @@
  # Preview 
   
   ```  
- Markdown     8 hrs 20 mins  ■■■■■■■■■■■■■▥□□  70.7%
+ Markdown     8 hrs 19 mins  ■■■■■■■■■■■■■▥□□  70.6%
 Kotlin       2 hrs 56 mins  ■■■■■■◱□□□□□□□□□  25.0%
 Swift              19 mins  ■■▦□□□□□□□□□□□□□   2.8%
 Java                8 mins  ■■▥□□□□□□□□□□□□□   1.2%
