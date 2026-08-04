@@ -4,12 +4,12 @@
  # Preview 
   
   ```  
- Markdown     8 hrs 19 mins  ■■■■■■■■■■■■■▥□□  70.6%
-Kotlin       2 hrs 56 mins  ■■■■■■◱□□□□□□□□□  25.0%
-Swift              19 mins  ■■▦□□□□□□□□□□□□□   2.8%
-Java                8 mins  ■■▥□□□□□□□□□□□□□   1.2%
-Other                1 min  ■■◱□□□□□□□□□□□□□   0.2%
-Shell               0 secs  ■■◱□□□□□□□□□□□□□   0.1% 
+ Markdown     5 hrs 59 mins  ■■■■■■■■■■■◱□□□□  56.0%
+Kotlin        4 hrs 2 mins  ■■■■■■■■◱□□□□□□□  37.8%
+Swift              13 mins  ■■▥□□□□□□□□□□□□□   2.1%
+Java                8 mins  ■■▥□□□□□□□□□□□□□   1.3%
+Groovy              5 mins  ■■▥□□□□□□□□□□□□□   0.9%
+Gradle              4 mins  ■■▥□□□□□□□□□□□□□   0.7% 
  ``` 
   
  
